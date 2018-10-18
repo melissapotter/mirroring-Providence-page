@@ -1,5 +1,6 @@
 body a {
     color: #333;
+    font-family: sans-serif; 
 }
 
 /* Dropdown Button */
@@ -74,4 +75,17 @@ body a {
     color: #10475A;
     font-size: 1em;
     line-height: 1.2;
+}
+
+.list-group-item {
+    background-color: #10475a;
+    color: #fff;
+}
+
+.list-group-title {
+    background-color: #005d73;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
 }
