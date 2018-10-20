@@ -1,6 +1,6 @@
 body a {
     color: #333;
-    font-family: sans-serif; 
+    font-family: sans-serif ; 
 }
 
 /* Dropdown Button */
@@ -87,5 +87,10 @@ body a {
     color: #fff;
     font-weight: bold;
     text-transform: uppercase;
+    text-align: center;
+}
+
+.spacing {
+    display: inline-block;
     text-align: center;
 }
