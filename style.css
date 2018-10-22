@@ -94,3 +94,7 @@ body a {
     display: inline-block;
     text-align: center;
 }
+
+.nav-link {
+    color: #10475a;
+}
